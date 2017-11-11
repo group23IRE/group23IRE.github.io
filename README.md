@@ -1,4 +1,4 @@
-# Project Page - Group 23
+<span style="color:blue">**Project Page - Group 23**</span>.
 
 Problem Statement
 =================
